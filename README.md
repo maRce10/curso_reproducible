@@ -1,4 +1,4 @@
-# Problemas especiales en Zoología 15: Herramientas prácticas para investigación reproducible
+# Herramientas prácticas para investigación reproducible
 
 ### Profesores: 
 - Beatriz Willink (beatriz.willink@ucr.ac.cr) Escuela de Biología, oficina #3A

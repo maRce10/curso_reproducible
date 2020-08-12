@@ -2,7 +2,7 @@
 
 ### Profesores: 
 - Beatriz Willink (beatriz.willink@ucr.ac.cr) Escuela de Biología, oficina #3A
-- Marcelo Araya (marcelo.araya @ucr.ac.cr) Escuela de Biología, oficina #4A
+- Marcelo Araya (marcelo.araya@ucr.ac.cr) Escuela de Biología, oficina #4A
 
 Vivimos en un periodo único en la historia de la producción científica, en el que se generan datos y
 publicaciones a una tasa nunca antes vista. Esta mega producción surge debido tanto al

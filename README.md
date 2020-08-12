@@ -1,20 +1,9 @@
-Universidad de Costa Rica
-Escuela de Biología
-II-2020
-Sigla: B-0674
-Nombre del Curso: Problemas especiales en Zoología 15: Herramientas prácticas para
-investigación reproducible
-Ciclo: II
-Créditos: 4
-Horas lectivas: 4
-Requisitos: B0304 y B0305 Ecología General (T y L)
-Profesores:
-Beatriz Willink (beatriz.willink@ucr.ac.cr) Escuela de Biología, oficina #3A
-Marcelo Araya (marcelo.araya @ucr.ac.cr) Escuela de Biología, oficina #4A
-Horario de atención a estudiantes:
-Beatriz: L a V [8.00,17.00] por correo electrónico
-Marcelo: L a V [8.00,17.00] por correo electrónico
-Descripción
+# Problemas especiales en Zoología 15: Herramientas prácticas para investigación reproducible
+
+### Profesores: 
+- Beatriz Willink (beatriz.willink@ucr.ac.cr) Escuela de Biología, oficina #3A
+- Marcelo Araya (marcelo.araya @ucr.ac.cr) Escuela de Biología, oficina #4A
+
 Vivimos en un periodo único en la historia de la producción científica, en el que se generan datos y
 publicaciones a una tasa nunca antes vista. Esta mega producción surge debido tanto al
 crecimiento en el número de científicas y científicos a nivel mundial, como a los avances
@@ -33,6 +22,8 @@ de la producción científica. Consideramos que este curso proveerá beneficios 
 comunidad científica, al promover altos estándares de calidad, como beneficios personales para
 las y los estudiantes, al prepararles para un mercado laboral que empieza a privilegiar la
 capacidad de desarrollar ciencia abierta, colaborativa y reproducible.
-Objetivo general
+
+## Objetivo general
+
 Familiarizar a las y los estudiantes con herramientas y buenas prácticas para garantizar
 transparencia, accesibilidad de datos y reproducibilidad en la investigación científica biológica

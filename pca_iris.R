@@ -15,3 +15,6 @@ ir.pca <- prcomp(log.ir,
                  
  # revisar resultado
  summary(ir.pca)
+
+# imprimir
+irp.pca
